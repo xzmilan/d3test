@@ -1,16 +1,20 @@
 {
-"name":"Begin" ,
-"children" :  [
-  { 
-    "name": "Retail Clients",
-    "size": 3
-  , 
-      "children" :  [
-        { 
-          "name": "Farm Servers",
-          "size": 2}
-          ]
-  }
-  ]
+    "name": "Begin",
+    "children": [
+        {
+            "name": "Retail Clients",
+            "size": 1,
+            "children": [
+                {
+                    "name": "Farm Servers",
+                    "size": 1
+                },
+                {
+                    "name": "Applications",
+                    "size": 49
+                }
+            ]
+        }
+    ]
 }
   
