@@ -1,9 +1,9 @@
 
 { 
-"name":" " ,
+"name": " " ,
 "children" :  [
 { "name": "Retail Clients","size": 1}
-"children" :  [
+"children":  [
 { "name": "Farm Servers","size": 1}
 ]	
 }
