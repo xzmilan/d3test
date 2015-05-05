@@ -1,61 +1,32 @@
-{
-    "name": " ",
-    "children": [
-        {
-            "name": "Retail Clients",
-            "size": 1,
-            "children": [
-                {
-                    "name": "Farm Servers",
-                    "size": 1
-                },
-                {
-                    "name": "Applications",
-                    "size": 49
-                }
-            ]
-        },
-        {
-            "name": "HealthCare Clients",
-            "size": 3,
-            "children": [
-                {
-                    "name": "Farm Servers",
-                    "size": 695
-                },
-                {
-                    "name": "Applications",
-                    "size": 85
-                }
-            ]
-        },
-        {
-            "name": "Technology Service Provider",
-            "size": 5,
-            "children": [
-                {
-                    "name": "Farm Servers",
-                    "size": 77
-                },
-                {
-                    "name": "Applications",
-                    "size": 109
-                }
-            ]
-        },
-        {
-            "name": "Mgmt Consultant Clients",
-            "size": 1,
-            "children": [
-                {
-                    "name": "Farm Servers",
-                    "size": 1
-                },
-                {
-                    "name": "Applications",
-                    "size": 2
-                }
-            ]
-        }
-    ]
-}
+{ "name":" " , "children" :  [
+{ "name": "Upload 1 Retail" , "children" :  [
+{ "name": "Farm Servers","size": 1},
+{ "name": "Applications","size": 49}]},
+{ "name": "Upload 2 HealthCare" , "children" :  [
+{ "name": "Farm Servers","size": 543},
+{ "name": "Applications","size": 27}]},
+{ "name": "Upload 3 TechServ" , "children" :  [
+{ "name": "Farm Servers","size": 3},
+{ "name": "Applications","size": 10}]},
+{ "name": "Upload 4 TechServ" , "children" :  [
+{ "name": "Farm Servers","size": 43},
+{ "name": "Applications","size": 23}]},
+{ "name": "Upload 5 HealthCare" , "children" :  [
+{ "name": "Farm Servers","size": 69},
+{ "name": "Applications","size": 53}]},
+{ "name": "Upload 6 TechServ" , "children" :  [
+{ "name": "Farm Servers","size": 6},
+{ "name": "Applications","size": 11}]},
+{ "name": "Upload 7 TechServ" , "children" :  [
+{ "name": "Farm Servers","size": 13},
+{ "name": "Applications","size": 62}]},
+{ "name": "Upload 8 TechServ" , "children" :  [
+{ "name": "Farm Servers","size": 12},
+{ "name": "Applications","size": 3}]},
+{ "name": "Upload 9 MgmtConslt" , "children" :  [
+{ "name": "Farm Servers","size": 1},
+{ "name": "Applications","size": 2}]},
+{ "name": "Upload 10 HealthCare" , "children" :  [
+{ "name": "Farm Servers","size": 83},
+{ "name": "Applications","size": 5}]}
+]}
