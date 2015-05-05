@@ -3,12 +3,12 @@
 "children" :  [
   { 
     "name": "Retail Clients",
-    "size": 1
+    "size": 3
   , 
       "children" :  [
         { 
           "name": "Farm Servers",
-          "size": 1}
+          "size": 2}
           ]
   }
   ]
