@@ -1,21 +1,9 @@
-{
-    "name": "",
-    "children": [
-        {
-            "name": "Retail Clients",
-            "size": 1
-        },
-        {
-            "name": "HealthCare Clients",
-            "size": 3
-        },
-        {
-            "name": "Technology Service Provider",
-            "size": 5
-        },
-        {
-            "name": "Mgmt Consultant Clients",
-            "size": 1
-        }
+{ 
+ "name": "Industry",
+ 
+"children": [
+  
+{ "name": "Retail Clients","size": 1}
+
     ]
 }
