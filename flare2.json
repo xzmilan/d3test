@@ -1,135 +1,43 @@
-{
-    "name": " ",
-    "children": [
-        {
-            "name": "Upld 1 Retail",
-            "children": [
-                {
-                    "name": "FrmSrv",
-                    "size": 1
-                },
-                {
-                    "name": "Apps",
-                    "size": 49
-                }
-            ]
-        },
-        {
-            "name": "Upld 2 HealthCare",
-            "children": [
-                {
-                    "name": "FrmSrv",
-                    "size": 543
-                },
-                {
-                    "name": "Apps",
-                    "size": 27
-                }
-            ]
-        },
-        {
-            "name": "Upld 3 TechServ",
-            "children": [
-                {
-                    "name": "FrmSrv",
-                    "size": 3
-                },
-                {
-                    "name": "Apps",
-                    "size": 10
-                }
-            ]
-        },
-        {
-            "name": "Upld 4 TechServ",
-            "children": [
-                {
-                    "name": "FrmSrv",
-                    "size": 43
-                },
-                {
-                    "name": "Apps",
-                    "size": 23
-                }
-            ]
-        },
-        {
-            "name": "Upld 5 HealthCare",
-            "children": [
-                {
-                    "name": "FrmSrv",
-                    "size": 69
-                },
-                {
-                    "name": "Apps",
-                    "size": 53
-                }
-            ]
-        },
-        {
-            "name": "Upld 6 TechServ",
-            "children": [
-                {
-                    "name": "FrmSrv",
-                    "size": 6
-                },
-                {
-                    "name": "Apps",
-                    "size": 11
-                }
-            ]
-        },
-        {
-            "name": "Upld 7 TechServ",
-            "children": [
-                {
-                    "name": "FrmSrv",
-                    "size": 13
-                },
-                {
-                    "name": "Apps",
-                    "size": 62
-                }
-            ]
-        },
-        {
-            "name": "Upld 8 TechServ",
-            "children": [
-                {
-                    "name": "FrmSrv",
-                    "size": 12
-                },
-                {
-                    "name": "Apps",
-                    "size": 3
-                }
-            ]
-        },
-        {
-            "name": "Upld 9 MgmtConslt",
-            "children": [
-                {
-                    "name": "FrmSrv",
-                    "size": 1
-                },
-                {
-                    "name": "Apps",
-                    "size": 2
-                }
-            ]
-        },
-        {
-            "name": "Upld 10 HealthCare",
-            "children": [
-                {
-                    "name": "FrmSrv",
-                    "size": 83
-                },
-                {
-                    "name": "Apps",
-                    "size": 5
-                }
-            ]
-        }
-    ]
-}
+{ "name":" " ,
+ "children" :  [
+{ "name": "Upld 1 Retail" ,
+ "children" :  [
+{ "name": "FrmSrv 1","size": 1},
+{ "name": "Apps 49","size": 49}]},
+{ "name": "Upld 2 HealthCare" ,
+ "children" :  [
+{ "name": "FrmSrv 543","size": 543},
+{ "name": "Apps 27","size": 27}]},
+{ "name": "Upld 3 TechServ" ,
+ "children" :  [
+{ "name": "FrmSrv 3","size": 3},
+{ "name": "Apps 10","size": 10}]},
+{ "name": "Upld 4 TechServ" ,
+ "children" :  [
+{ "name": "FrmSrv 43","size": 43},
+{ "name": "Apps 23","size": 23}]},
+{ "name": "Upld 5 HealthCare" ,
+ "children" :  [
+{ "name": "FrmSrv 69","size": 69},
+{ "name": "Apps 53","size": 53}]},
+{ "name": "Upld 6 TechServ" ,
+ "children" :  [
+{ "name": "FrmSrv 6","size": 6},
+{ "name": "Apps 11","size": 11}]},
+{ "name": "Upld 7 TechServ" ,
+ "children" :  [
+{ "name": "FrmSrv 13","size": 13},
+{ "name": "Apps 62","size": 62}]},
+{ "name": "Upld 8 TechServ" ,
+ "children" :  [
+{ "name": "FrmSrv 12","size": 12},
+{ "name": "Apps 3","size": 3}]},
+{ "name": "Upld 9 MgmtConslt" ,
+ "children" :  [
+{ "name": "FrmSrv 1","size": 1},
+{ "name": "Apps 2","size": 2}]},
+{ "name": "Upld 10 HealthCare" ,
+ "children" :  [
+{ "name": "FrmSrv 83","size": 83},
+{ "name": "Apps 5","size": 5}]}
+]}
