@@ -3782,7 +3782,7 @@ d3.svg.axis = function() {
           subtick = g.selectAll(".minor").data(subticks, String),
           subtickEnter = subtick.enter().insert("svg:line", "g").attr("class", "tick minor").style("opacity", 1e-6),
           subtickExit = transition(subtick.exit()).style("opacity", 1e-6).remove(),
-          subtickUpdate = transition(subtick).style("opacity", 0);
+          subtickUpdate = transition(subtick).style("opacity", 1);
 
       // Major ticks.
       var tick = g.selectAll("g").data(ticks, String),
